@@ -1,6 +1,6 @@
 [submodule "IoT-Client"]
-	path = IoT-Client
+	path = IoTClient
 	url = https://github.com/Air-RME/IoT-Client.git
 [submodule "IR-Control-System"]
-	path = IR-Control-System
+	path = IRControlSystem
 	url = https://github.com/Air-RME/IR-Control-System.git
