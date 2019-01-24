@@ -1,5 +1,5 @@
+from IRControlSystem.receiver import Receiver
 from IoTClient.IoTClient import IoTClient
-from IRControlSystem.ir.receiver import Receiver
 import redis
 import json
 import threading
